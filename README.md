@@ -1,4 +1,4 @@
-# DigitalMenu 🍽️📱
+# Digital Menu 🍽️📱
 Bem-vindo ao repositório do DigitalMenu-Showcase, onde a tecnologia encontra a gastronomia! Este projeto é dedicado a criar um cardápio digital interativo e atraente, utilizando as tecnologias web mais populares: HTML, CSS, JavaScript e Bootstrap.<br><br>
 ![image](https://github.com/samuel-almeida-dev/Digital-Menu/assets/130515347/d64fc57c-8f1d-4872-aac6-5a4e65b8be43)
 <br><br> Com ele, buscamos proporcionar uma experiência única tanto para os proprietários de restaurantes quanto para os clientes, oferecendo uma maneira elegante e eficiente de explorar deliciosas opções de pratos.
