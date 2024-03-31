@@ -19,4 +19,4 @@ O projeto está em constante desenvolvimento, com novas funcionalidades sendo ad
 - Primeiros passos em direção a uma interação mais dinâmica com o usuário.
   
 ## 🚀 Próximo Passo
-Meu foco atual é na adição de <b>responsividade</b>. Estamos trabalhando para garantir que o cardápio digital seja perfeitamente acessível e visualmente agradável em todos os tipos de dispositivos, desde smartphones a tablets e desktops. Em breve, estarei disponibilizando o projeto no GitHub Pages, para que todos possam visualizar e interagir com o cardápio digital em ação. Fique ligado!
+Meu foco atual é na adição de <b>responsividade</b>. Estou trabalhando para garantir que o cardápio digital seja perfeitamente acessível e visualmente agradável em todos os tipos de dispositivos, desde smartphones a tablets e desktops. Em breve, estarei disponibilizando o projeto no GitHub Pages, para que todos possam visualizar e interagir com o cardápio digital em ação. Fique ligado!
